@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>ex002.html</title>
+</head>
+<h1>Personnel Information System System</h1>
+<form action="ex002.asp" method="Post">
+<table border="0"" align="right" 
+<tr>
+<td align="left">
+<label access=z> Name:<input name=/me"
+size="15"
+</label>
+</tz>
+City:<Select name="City"
+style="Height": 17zw">
+<Option select New Delhi>
+<Option select> Mumbai
+<Option Select> Chennai
+</Select br>
+<label> Male <Input Type> ="Radio Name"="Gender"  value="Male">
+</label>
+<label> Female <input type>="Radio" name="gender" value="Female">
+</label>
+</tj>
+<label access="e"><u>E</u>-mail: <input name="Email" size="30"
+</label>
+<tr>
+<h3> Hobbies</h3>
+<label> Reading Input type="checkbox" name="hobbies1" value="Reading">
+</label> Writing Input type"hobbies="checkbox" name=hobbies3" value="writing">
+<tz align="middle" clospan="3">
+<input type="reset"value="reset all the data">
+</table>
+</form>
+</body>
+</html>
+
+
+
+
+
+<
